@@ -7,12 +7,19 @@
 - IDE: Android Studio / VS Code
 
 🏗️ 프로젝트 구조
+
 lib/
+
 ├── main.dart
+
 ├── models/
+
 ├── screens/
+
 ├── widgets/
+
 ├── services/
+
 └── utils/
 
 🚀 시작하기
